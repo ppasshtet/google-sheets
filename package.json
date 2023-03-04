@@ -1,0 +1,15 @@
+{
+  "name": "google-sheets",
+  "version": "1.0.0",
+  "description": "websocket-traning ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ppasshtet"
+  },
+  "author": "",
+  "license": "ISC"
+}
