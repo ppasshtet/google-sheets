@@ -11,5 +11,9 @@
     "url": "ppasshtet"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "ws": "^8.12.1"
+  }
 }
